@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:personal_expenses_app/constants/constants.dart';
+import 'package:personal_expenses_app/all_export.dart';
 import 'reuse_widget/reuse_textfield.dart';
 
 class NewTransaction extends StatelessWidget {
